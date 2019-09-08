@@ -1398,3 +1398,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.08-00.07.44:832][785]Cmd: MAP CHECKDEP NOCLEARLOG
 [2019.09.08-00.07.44:833][785]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.176ms to complete.
 [2019.09.08-00.07.44:835][785]LogFileHelpers: Loading map 'Demonstration' took 0.887
+[2019.09.08-00.18.19:605][928]LogEditorViewport: Clicking on Actor (LMB): BP_TacticsCharacter_C (RoyalMage)
+[2019.09.08-00.21.39:812][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.08-00.21.43:747][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.08-00.21.50:828][881]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.08-00.21.51:214][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.09.08-00.21.51:252][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.09.08-00.21.51:282][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.09.08-00.21.51:717][881]SourceControl: Error: Updated 0 paths from the index
+[2019.09.08-00.21.52:051][881]SourceControl: rm 'VS_01/Content/TestMaterial.uasset'
